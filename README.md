@@ -21,7 +21,7 @@
       <td><a href="https://github.com/techtanic/Udemy-Course-Grabber"><b>Udemy Course Grabber</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
-      <td><herf="https://github.com/techtanic/Udemy-Course-Grabber/issues" img alt="Issues" src="https://img.shields.io/github/issues/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
+      <td><a herf="https://github.com/techtanic/Udemy-Course-Grabber/issues" ><img alt="Issues" src="https://img.shields.io/github/issues/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></a></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
 	  <tr>
