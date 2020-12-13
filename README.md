@@ -3,7 +3,7 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=Python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=Python&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
@@ -21,7 +21,7 @@
       <td><a href="https://github.com/techtanic/Udemy-Course-Grabber"><b>Udemy Course Grabber</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
+      <td><herf="https://github.com/techtanic/Udemy-Course-Grabber/issues" img alt="Issues" src="https://img.shields.io/github/issues/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
 	  <tr>
