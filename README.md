@@ -33,6 +33,9 @@
     </tr>
   </tbody>
 </table>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=techtanic&theme=vision-friendly-dark)](https://github.com/techtanic)
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/techtanic" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
