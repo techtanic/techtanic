@@ -21,14 +21,14 @@
       <td><a href="https://github.com/techtanic/Udemy-Course-Grabber"><b>Udemy Course Grabber</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41 herf="https://github.com/techtanic/Udemy-Course-Grabber/issues" "/></td>
+      <td><a href="https://github.com/techtanic/Udemy-Course-Grabber/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/techtanic/Udemy-Course-Grabber?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/techtanic/proton_bot"><b>Proton Account Creator</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/techtanic/proton_bot?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/techtanic/proton_bot?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/techtanic/proton_bot?style=for-the-badge&labelColor=343b41"/></td>
+      <td><a href="https://github.com/techtanic/proton_bot/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/techtanic/proton_bot?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/techtanic/proton_bot?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
   </tbody>
