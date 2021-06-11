@@ -1,34 +1,26 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> What's Up.</h1>
+<h1 align="center">Hi 👋, I'm TECHTANIC</h1>
+<h3 align="center">I love Automating Stuff</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techtanic&label=Profile%20views&color=e100ff&style=flat-square" alt="techtanic" /> </p>
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=Python&logoColor=white" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techtanic" alt="techtanic" /></a> </p>
+
+- 📫 How to reach me **techtanic@email.com**
+
+- ⚡ Fun fact **I am a fool**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/techtanic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="techtanic" height="30" width="40" /></a>
+<a href="https://discord.gg/wFsfhJh4Rh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wFsfhJh4Rh" height="30" width="40" /></a>
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>❗ Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/techtanic/Discounted-Udemy-Course-Enroller"><b>Discounted-Udemy-Course-Enroller</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/techtanic/Discounted-Udemy-Course-Enroller?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/techtanic/Discounted-Udemy-Course-Enroller?style=for-the-badge&labelColor=343b41"/></td>
-      <td><a href="https://github.com/techtanic/Discounted-Udemy-Course-Enroller/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/techtanic/Discounted-Udemy-Course-Enroller?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/techtanic/Discounted-Udemy-Course-Enroller?style=for-the-badge&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=techtanic&theme=vision-friendly-dark&show_icons=true&hide_border=ture&count_private=true)](https://github.com/techtanic)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/techtanic" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techtanic&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="techtanic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techtanic&show_icons=true&theme=dark&hide_border=true&locale=en" alt="techtanic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techtanic&theme=dark" alt="techtanic" /></p>
+
