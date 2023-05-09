@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techtanic" alt="techtanic" /></a> </p>
 
-- 📫 How to reach me **techtanic@email.com**
+- 📫 How to reach me **techtanic+contact@outlook.com**
 
 - ⚡ Fun fact **I am a fool**
 
