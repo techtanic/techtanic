@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **techtanic+contact@outlook.com**
 
-- ⚡ Fun fact **I am a fool**
+- ⚡ Fun fact **I am borin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
