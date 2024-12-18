@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techtanic&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="techtanic" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=techtanic&theme=github-dark-blue&hide_border=true" alt=" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=techtanic&theme=github-dark-blue&hide_border=true" alt="" />
 </div>
 
 <p align="center">
